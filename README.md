@@ -15,7 +15,7 @@ This GitHub repository comprises a comprehensive analysis project focused on Osc
 
 ## Dataset Description:
 
-File1: Gephi/oscars_cast_node.csv
+File1: Dataset/Gephi/oscars_cast_node.csv
 
 | Variable   | Description                                    | DataType |
 |------------|------------------------------------------------|----------|
@@ -29,7 +29,7 @@ File1: Gephi/oscars_cast_node.csv
 | Type       | Actors (Actress) or Director                   | String   |
 
 
-File2: Gephi/oscars_cast_edge.csv
+File2: Dataset/Gephi/oscars_cast_edge.csv
 
 | Variable | Description                                  | DataType |
 |----------|----------------------------------------------|----------|
@@ -38,7 +38,7 @@ File2: Gephi/oscars_cast_edge.csv
 | weight   | Cooperation frequencies between two casts   | Numeric  |
 | label    | Film name of cooperating                     | String   |
 
-File3: Gephi/HK_cast_node.csv
+File3: Dataset/Gephi/HK_cast_node.csv
 
 | Variable   | Description                                                   | DataType |
 |------------|---------------------------------------------------------------|----------|
@@ -50,7 +50,7 @@ File3: Gephi/HK_cast_node.csv
 | Year       | Award year                                                    | Integer  |
 | Film       | Film name                                                     | String   |
 
-File4: Gephi/HK_cast_edge.csv
+File4: Dataset/Gephi/HK_cast_edge.csv
 
 | Variable | Description                                           | DataType |
 |----------|-------------------------------------------------------|----------|
@@ -59,7 +59,7 @@ File4: Gephi/HK_cast_edge.csv
 | weight   | Cooperation frequencies between two casts            | Numeric  |
 
 
-File5: Gephi/oscars_genre_node.csv
+File5: Dataset/Gephi/oscars_genre_node.csv
 
 | Variable              | Description                                    | DataType  |
 |-----------------------|------------------------------------------------|-----------|
@@ -77,7 +77,7 @@ File5: Gephi/oscars_genre_node.csv
 | duration              | Duration of the film                            | Integer   |
 | director_name         | Director's name of the film                     | String    |
 
-File6: Gephi/oscars_genre_weight.csv
+File6: Dataset/Gephi/oscars_genre_weight.csv
 
 | Variable | Description                                   | DataType  |
 |----------|-----------------------------------------------|-----------|
@@ -87,7 +87,7 @@ File6: Gephi/oscars_genre_weight.csv
 
 *Note: Genre Similarity is calculated by counting the common genres and adding corresponding weights. For example, if one film has “Drama”, “Romance”, and “Comedy”, and the other has “Romance” and “Comedy”, the weight will be 2.*
 
-File7: Gephi/HK_genre_node.csv
+File7: Dataset/Gephi/HK_genre_node.csv
 
 | Variable                   | Description                                  | DataType  |
 |----------------------------|----------------------------------------------|-----------|
@@ -103,7 +103,7 @@ File7: Gephi/HK_genre_node.csv
 | Reviewer_Number            | Number of reviewers on Douban                 | Integer   |
 
 
-File8: Gephi/HK_genre_edge.csv
+File8: Dataset/Gephi/HK_genre_edge.csv
 
 | Variable | Description                                   | DataType  |
 |----------|-----------------------------------------------|-----------|
@@ -113,7 +113,7 @@ File8: Gephi/HK_genre_edge.csv
 
 *Note: Genre Similarity is calculated by counting the common genres and adding corresponding weights. For example, if one film has “Drama”, “Romance”, and “Comedy”, and the other has “Romance” and “Comedy”, the weight will be 2.*
 
-File9 Source/the_oscar_award.csv
+File9 Dataset/Source/the_oscar_award.csv
 
 | Variable         | Description                               | DataType |
 |------------------|-------------------------------------------|-----------|
@@ -125,7 +125,7 @@ File9 Source/the_oscar_award.csv
 | `film`           | Film name                                  | String    |
 | `winner`         | Boolean indicating if the nominee is the winner | Boolean      |
 
-File10 Source/movie_metadata.csv
+File10 Dataset/Source/movie_metadata.csv
 
 | Variable                     | Description                                   | DataType  |
 |------------------------------|-----------------------------------------------|-----------|
