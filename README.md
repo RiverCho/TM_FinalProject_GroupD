@@ -8,7 +8,7 @@ This GitHub repository comprises a comprehensive analysis project focused on Osc
    - The `dataset` directory contains the datasets used for the analysis. These datasets are meticulously collected, curated, and cleaned to ensure accuracy and relevance to the project's objectives.
 
 2. **Jupyter Notebook:**
-   - The `2001-2010OscarsCastAndWorksDataCollecting.ipynb` file is a Jupyter Notebook that provides a step-by-step breakdown of how the data was collected, organized, and cleaned.
+   - The `2001-2010OscarsCastAndWorksDataCollecting.ipynb` and `2001-2010HkFilmAwardsCastAndWorksDataCollecting` files are two Jupyter Notebooks that provide a step-by-step breakdown of how the data was collected, organized, and cleaned.
 
 3. **Research Report:**
    - The `Report.pdf` document encapsulates the findings and insights derived from the analysis. It offers a comprehensive overview of the relationships explored, patterns identified, and key takeaways from the study.
