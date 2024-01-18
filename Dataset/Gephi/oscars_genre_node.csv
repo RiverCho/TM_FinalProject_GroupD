@@ -1,0 +1,97 @@
+ID,year_film,year_ceremony,imdb_score,num_voted_users,budget,language,country,gross,genres,main genre,num_user_for_reviews,duration,director_name
+Vicky Cristina Barcelona,2008,2009,7.2,198111,15500000,English,Spain,23213577,Drama|Romance,Drama,365,96,Woody Allen
+Michael Clayton,2007,2008,7.3,133367,25000000,English,USA,49024969,Crime|Drama|Mystery|Thriller,Crime,363,119,Tony Gilroy
+Ray,2004,2005,7.7,110394,40000000,English,USA,75305995,Biography|Drama|Music,Biography,433,178,Taylor Hackford
+Erin Brockovich,2000,2001,7.3,135246,52000000,English,USA,125548685,Biography|Drama,Biography,498,131,Steven Soderbergh
+Traffic,2000,2001,7.6,170684,48000000,English,USA,124107476,Crime|Drama|Thriller,Crime,867,190,Steven Soderbergh
+Syriana,2005,2006,7,109188,50000000,English,USA,50815288,Drama|Thriller,Drama,625,128,Stephen Gaghan
+The Queen,2006,2007,7.3,85333,9800000,English,UK,56437947,Biography|Drama,Biography,421,94,Stephen Frears
+The Reader,2008,2009,7.6,189812,32000000,English,USA,34180954,Drama|Romance,Drama,370,124,Stephen Daldry
+The Hours,2002,2003,7.6,102123,25000000,English,USA,41597830,Drama|Romance,Drama,660,114,Stephen Daldry
+Marie Antoinette,2006,2007,6.4,79892,40000000,English,USA,15962471,Biography|Drama|History|Romance,Biography,619,123,Sofia Coppola
+Elizabeth: The Golden Age,2007,2008,6.9,54787,55000000,English,UK,16264475,Biography|Drama|History|War,Biography,216,114,Shekhar Kapur
+Crazy Heart,2009,2010,7.3,67760,7000000,English,USA,39462438,Drama|Music|Romance,Drama,226,112,Scott Cooper
+The Duchess,2008,2009,6.9,61777,13500000,English,UK,13823741,Biography|Drama|History|Romance,Biography,140,110,Saul Dibb
+Spider-Man 2,2004,2005,7.3,411164,200000000,English,USA,373377893,Action|Adventure|Fantasy|Romance,Action,1303,135,Sam Raimi
+Road to Perdition,2002,2003,7.7,200359,80000000,English,USA,104054514,Crime|Drama|Thriller,Crime,1009,117,Sam Mendes
+A Beautiful Mind,2001,2002,8.2,610568,58000000,English,USA,170708996,Biography|Drama,Biography,1171,135,Ron Howard
+The Pianist,2002,2003,8.5,497946,35000000,English,France,32519322,Biography|Drama|War,Biography,761,150,Roman Polanski
+Memoirs of a Geisha,2005,2006,7.3,119286,85000000,English,USA,57010853,Drama|Romance,Drama,548,145,Rob Marshall
+Chicago,2002,2003,7.2,172080,45000000,English,USA,170684505,Comedy|Crime|Musical,Comedy,1017,113,Rob Marshall
+Gladiator,2000,2001,8.5,982637,103000000,English,USA,187670866,Action|Drama|Romance,Action,2368,171,Ridley Scott
+Black Hawk Down,2001,2002,7.7,292022,92000000,English,USA,108638745,Drama|History|War,Drama,1103,152,Ridley Scott
+Iris,2001,2002,7.1,14786,5500000,English,UK,1292119,Biography|Drama|Romance,Biography,144,91,Richard Eyre
+Inglourious Basterds,2009,2010,8.3,885175,75000000,English,USA,120523073,Adventure|Drama|War,Adventure,1527,153,Quentin Tarantino
+Master and Commander: The Far Side of the World,2003,2004,7.4,168207,150000000,English,USA,93926386,Action|Adventure|Drama|History|War,Action,684,138,Peter Weir
+King Kong,2005,2006,7.2,316018,207000000,English,New Zealand,218051260,Action|Adventure|Drama|Romance,Action,2618,201,Peter Jackson
+The Lord of the Rings: The Return of the King,2003,2004,8.9,1215718,94000000,English,USA,377019252,Action|Adventure|Drama|Fantasy,Action,3189,192,Peter Jackson
+The Lord of the Rings: The Two Towers,2002,2003,8.7,1100446,94000000,English,USA,340478898,Action|Adventure|Drama|Fantasy,Action,2417,172,Peter Jackson
+The Lord of the Rings: The Fellowship of the Ring,2001,2002,8.8,1238746,93000000,English,New Zealand,313837577,Action|Adventure|Drama|Fantasy,Action,5060,171,Peter Jackson
+Up,2009,2010,8.3,665575,175000000,English,USA,292979556,Adventure|Animation|Comedy|Family,Adventure,704,96,Pete Docter
+"Monsters, Inc.",2001,2002,8.1,585659,115000000,English,USA,289907418,Adventure|Animation|Comedy|Family|Fantasy,Adventure,593,92,Pete Docter
+There Will Be Blood,2007,2008,8.1,372990,25000000,English,USA,40218903,Drama,Drama,1107,158,Paul Thomas Anderson
+Crash,2005,2006,7.9,361169,6500000,English,Germany,54557348,Crime|Drama|Thriller,Crime,1624,115,Paul Haggis
+The Bourne Ultimatum,2007,2008,8.1,491077,110000000,English,USA,227137090,Action|Mystery|Thriller,Action,820,115,Paul Greengrass
+Monster,2003,2004,7.3,105568,4500000,English,USA,34468224,Biography|Crime|Drama|Thriller,Biography,533,109,Patty Jenkins
+The Aviator,2004,2005,7.5,264318,110000000,English,USA,102608827,Biography|Drama,Biography,799,170,Martin Scorsese
+The Departed,2006,2007,8.5,873649,90000000,English,USA,132373442,Crime|Drama|Thriller,Crime,2054,151,Martin Scorsese
+Monster's Ball,2001,2002,7.1,71495,4000000,English,USA,31252964,Drama|Romance,Drama,522,112,Marc Forster
+The Last King of Scotland,2006,2007,7.7,145580,6000000,English,UK,17605861,Biography|Drama|History|Thriller,Biography,351,121,Kevin Macdonald
+The Hurt Locker,2009,2010,7.6,332065,15000000,English,USA,15700000,Drama|History|Thriller|War,Drama,876,131,Kathryn Bigelow
+Frida,2002,2003,7.4,61651,12000000,English,USA,25776062,Biography|Drama|Romance,Biography,271,123,Julie Taymor
+The Secret in Their Eyes,2009,2010,8.2,131831,2000000,Spanish,Argentina,20167424,Drama|Mystery|Thriller,Drama,231,129,Juan Jos¨¦ Campanella
+Little Miss Sunshine,2006,2007,7.9,355810,8000000,English,USA,59889948,Comedy|Drama,Comedy,889,101,Jonathan Dayton
+The Blind Side,2009,2010,7.7,223127,29000000,English,USA,255950375,Biography|Drama|Sport,Biography,420,129,John Lee Hancock
+Once,2007,2008,7.9,90827,180000,English,Ireland,9437933,Drama|Music|Romance,Drama,329,85,John Carney
+The Young Victoria,2009,2010,7.3,44931,35000000,English,UK,10991381,Biography|Drama|History|Romance,Biography,100,100,Jean-Marc Vall¨¦e
+Walk the Line,2005,2006,7.9,188637,28000000,English,USA,119518352,Biography|Drama|Music|Romance,Biography,815,153,James Mangold
+Avatar,2009,2010,7.9,886204,237000000,English,USA,760505847,Action|Adventure|Fantasy|Sci-Fi,Action,3054,178,James Cameron
+Star Trek,2009,2010,8,504419,150000000,English,USA,257704099,Action|Adventure|Sci-Fi,Action,1559,127,J.J. Abrams
+La Vie en Rose,2007,2008,7.6,90079,25000000,French,France,87484847,Biography,Biography,1,130,Olivier Dahan
+Departures,2008,2009,8,54461,5000,Japanese,Japan,74236951,Drama,Drama,177,130,Yojiro Takita
+Precious: Based on the Novel 'Push' by Sapphire,2009,2010,7.3,115251,10000000,English,USA,63649529,Drama,Drama,340,110,Lee Daniels
+The Counterfeiters,2007,2008,7.5,46936,4200000,German,Austria,18814713,Crime|Drama|History|War,Crime,127,99,Stefan Ruzowitzky
+Sweeney Todd The Demon Barber of Fleet Street,2007,2008,7.3,383235,50000000,English,UK,153383627,Drama|Horror|Musical|Thriller,Drama,928,116,Tim Burton
+Lemony Snicket's A Series of Unfortunate Events,2004,2005,6.8,218695,140000000,English,USA,211468235,Adventure|Comedy|Family|Fantasy,Adventure,668,108,Brad Silberling
+The Motorcycle Diaries,2004,2005,7.7,104183,57700000,Spanish,UK,57663711,Adventure|Biography|Drama,Adventure,311,126,Walter Salles
+Wallace & Gromit in The Curse of the Were-Rabbit,2005,2006,7.5,144505,30000000,English,UK,192641209,Animation|Adventure|Comedy|Family|Fantasy|Mystery|Sci-Fi,Animation,361,85,"Nick Park, Steve Box"
+No Man's Land,2001,2002,7.9,48495,2000000,Serbo-Croatian,Bosnia and Herzegovina,4858869,Comedy|Drama|War,Comedy,190,98,Danis Tanovi?
+Adaptation,2002,2003,7.7,200702,19000000,English,USA,32801173,Comedy|Drama,Comedy,791,115,Spike Jonze
+Moulin Rouge,2001,2002,7.6,296420,50000000,English,Australia,184928542,Drama|Musical|Romance,Drama,2417,127,Baz Luhrmann
+Dr. Seuss' How the Grinch Stole Christmas,2000,2001,6.3,286200,123000000,English,USA,346524444,Comedy|Family|Fantasy,Comedy,724,104,Ron Howard
+Spirited Away,2002,2003,8.6,417971,19000000,Japanese,Japan,10049886,Adventure|Animation|Family|Fantasy,Adventure,902,125,Hayao Miyazaki
+Milk,2008,2009,7.6,136673,20000000,English,USA,31838002,Biography|Drama|History,Biography,281,128,Gus Van Sant
+Pan's Labyrinth,2006,2007,8.2,467234,13500000,Spanish,Spain,37623143,Drama|Fantasy|War,Drama,1083,112,Guillermo del Toro
+Pirates of the Caribbean: Dead Man's Chest,2006,2007,7.3,522040,225000000,English,USA,423032628,Action|Adventure|Fantasy,Action,1832,151,Gore Verbinski
+Happy Feet,2006,2007,6.5,132501,100000000,English,USA,197992827,Animation|Comedy|Family|Music|Romance,Animation,548,108,George Miller
+Tsotsi,2005,2006,7.3,25063,3000000,Zulu,UK,2912363,Crime|Drama,Crime,177,94,Gavin Hood
+The Lives of Others,2006,2007,8.5,259379,2000000,German,Germany,11284657,Drama|Thriller,Drama,407,137,Florian Henckel von Donnersmarck
+The Constant Gardener,2005,2006,7.5,111351,15000000,English,UK,33565375,Drama|Mystery|Romance|Thriller,Drama,568,129,Fernando Meirelles
+No Country for Old Men,2007,2008,8.1,612060,25000000,English,USA,74273505,Crime|Drama|Thriller,Crime,1518,122,Ethan Coen
+Pollock,2000,2001,7,23023,6000000,English,USA,8596914,Biography|Drama,Biography,148,122,Ed Harris
+The Barbarian Invasions,2003,2004,7.7,24921,6000000,French,Canada,3432342,Comedy|Crime|Drama|Mystery|Romance,Comedy,166,112,Denys Arcand
+An Inconvenient Truth,2006,2007,7.5,67654,1500000,English,USA,23808111,Documentary,Documentary,504,96,Davis Guggenheim
+The Curious Case of Benjamin Button,2008,2009,7.8,459346,150000000,English,USA,127490802,Drama|Fantasy|Romance,Drama,822,166,David Fincher
+Slumdog Millionaire,2008,2009,8,641997,15000000,English,UK,141319195,Drama|Romance,Drama,1017,120,Danny Boyle
+Wonder Boys,2000,2001,7.4,54643,55000000,English,USA,19389454,Comedy|Drama,Comedy,335,107,Curtis Hanson
+8 Mile,2002,2003,7,187181,41000000,English,USA,116724075,Drama|Music,Drama,564,110,Curtis Hanson
+Hustle & Flow,2005,2006,7.4,33567,8000000,English,USA,22201636,Crime|Drama|Music,Crime,206,116,Craig Brewer
+Million Dollar Baby,2004,2005,8.1,482064,30000000,English,USA,100422786,Drama|Sport,Drama,1106,132,Clint Eastwood
+Mystic River,2003,2004,8,338415,25000000,English,USA,90135191,Crime|Drama|Mystery|Thriller,Crime,935,138,Clint Eastwood
+The Dark Knight,2008,2009,9,1676169,185000000,English,USA,533316061,Action|Crime|Drama|Thriller,Action,4667,152,Christopher Nolan
+The Golden Compass,2007,2008,6.1,149019,180000000,English,USA,70083519,Adventure|Family|Fantasy,Adventure,666,113,Chris Weitz
+Nowhere in Africa,2002,2003,7.7,10672,7000000,English,Germany,6173485,Biography|Drama,Biography,84,141,Caroline Link
+Ratatouille,2007,2008,8,473887,150000000,English,USA,206435493,Animation|Comedy|Family|Fantasy,Animation,626,111,Brad Bird
+The Incredibles,2004,2005,8,479166,92000000,English,USA,261437578,Action|Adventure|Animation|Family,Action,815,115,Brad Bird
+Dreamgirls,2006,2007,6.5,55901,70000000,English,USA,103338338,Drama|Music|Musical,Drama,503,130,Bill Condon
+Capote,2005,2006,7.4,100571,7000000,English,Canada,28747570,Biography|Crime|Drama,Biography,416,110,Bennett Miller
+Training Day,2001,2002,7.7,305929,45000000,English,USA,76261036,Crime|Drama|Thriller,Crime,633,122,Antoine Fuqua
+Cold Mountain,2003,2004,7.2,118483,79000000,English,USA,95632614,Adventure|Drama|History|Romance|War,Adventure,674,154,Anthony Minghella
+"Crouching Tiger, Hidden Dragon",2000,2001,7.9,217740,15000000,Mandarin,Taiwan,128067808,Action|Drama|Romance,Action,1641,120,Ang Lee
+Brokeback Mountain,2005,2006,7.7,259837,14000000,English,USA,83025853,Drama|Romance,Drama,2254,134,Ang Lee
+Finding Nemo,2003,2004,8.2,692482,94000000,English,USA,380838870,Adventure|Animation|Comedy|Family,Adventure,866,100,Andrew Stanton
+"The Chronicles of Narnia: The Lion, the Witch and the Wardrobe",2005,2006,6.9,286506,180000000,English,USA,291709845,Adventure|Family|Fantasy,Adventure,1463,150,Andrew Adamson
+Shrek,2001,2002,7.9,467113,60000000,English,USA,267652016,Adventure|Animation|Comedy|Family|Fantasy,Adventure,945,90,Andrew Adamson
+Sideways,2004,2005,7.5,149966,12000000,English,USA,71502303,Adventure|Comedy|Drama|Romance,Adventure,835,126,Alexander Payne
+The Sea Inside,2004,2005,8.1,64556,10000000,Spanish,Spain,2086345,Biography|Drama|Romance,Biography,140,125,Alejandro Amen¨¢bar
+WALL-E,2008,2009,8.4,1179643,180000000,English,USA,521311890,Animation|Adventure|Family|Sci-Fi,Animation,1517,98,Andrew Stanton
