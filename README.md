@@ -11,7 +11,7 @@ This GitHub repository comprises a comprehensive analysis project focused on Osc
    - The `2001-2010OscarsCastAndWorksDataCollecting.ipynb` file is a Jupyter Notebook that provides a step-by-step breakdown of how the data was collected, organized, and cleaned.
 
 3. **Research Report:**
-   - The `research_report.pdf` document encapsulates the findings and insights derived from the analysis. It offers a comprehensive overview of the relationships explored, patterns identified, and key takeaways from the study.
+   - The `Report.pdf` document encapsulates the findings and insights derived from the analysis. It offers a comprehensive overview of the relationships explored, patterns identified, and key takeaways from the study.
 
 ## Dataset Description:
 
