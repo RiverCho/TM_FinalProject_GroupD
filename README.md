@@ -5,8 +5,8 @@ This GitHub repository comprises a comprehensive analysis project focused on Osc
 ## Repository Contents:
 
 1. **Dataset:**
-   - Dataset for Gephi: The `dataset` directory contains the datasets used for the Gephi analysis. These datasets are meticulously collected, curated, and cleaned to ensure accuracy and relevance to the project's objectives.
-   - Dataset for script analysis: We are unable to provide the script dataset due to copyright restrictions.
+   - **Dataset for Gephi**: The `dataset` directory contains the datasets used for the Gephi analysis. These datasets are meticulously collected, curated, and cleaned to ensure accuracy and relevance to the project's objectives.
+   - **Dataset for script analysis**: We are unable to provide the script dataset due to copyright restrictions.
 
 2. **Jupyter Notebook:**
    - The `2001-2010OscarsCastAndWorksDataCollecting.ipynb` and `2001-2010HkFilmAwardsCastAndWorksDataCollecting` files are two Jupyter Notebooks that provide a step-by-step breakdown of how the data was collected, organized, and cleaned.
