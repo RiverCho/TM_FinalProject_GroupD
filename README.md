@@ -113,6 +113,50 @@ File8: Gephi/HK_genre_edge.csv
 
 *Note: Genre Similarity is calculated by counting the common genres and adding corresponding weights. For example, if one film has “Drama”, “Romance”, and “Comedy”, and the other has “Romance” and “Comedy”, the weight will be 2.*
 
+File9 Source/the_oscar_award.csv
+
+| Variable         | Description                               | DataType |
+|------------------|-------------------------------------------|-----------|
+| `year_film`      | Filming year                              | Integer   |
+| `year_ceremony`  | Awarding year                             | Integer   |
+| `ceremony`       | The edition of the Academy Awards          | Integer   |
+| `category`       | The name of the awards                     | String    |
+| `name`           | The name of the winner or nominee          | String    |
+| `film`           | Film name                                  | String    |
+| `winner`         | Boolean indicating if the nominee is the winner | Boolean      |
+
+File10 Source/movie_metadata.csv
+
+| Variable                     | Description                                   | DataType  |
+|------------------------------|-----------------------------------------------|-----------|
+| director_name                | Name of the movie director                    | Text      |
+| num_critic_for_reviews       | Number of critic reviews                      | Numeric   |
+| duration                     | Duration of the movie (in minutes)           | Numeric   |
+| director_facebook_likes      | Number of Facebook likes for the director     | Numeric   |
+| actor_3_facebook_likes       | Number of Facebook likes for actor 3          | Numeric   |
+| actor_2_name                 | Name of actor 2                               | Text      |
+| actor_1_facebook_likes       | Number of Facebook likes for actor 1          | Numeric   |
+| gross                        | Gross earnings of the movie                   | Numeric   |
+| genres                       | Movie genres                                  | Text      |
+| actor_1_name                 | Name of actor 1                               | Text      |
+| movie_title                  | Title of the movie                            | Text      |
+| num_voted_users              | Number of users who voted for the movie       | Numeric   |
+| cast_total_facebook_likes    | Total Facebook likes for the movie cast       | Numeric   |
+| actor_3_name                 | Name of actor 3                               | Text      |
+| facenumber_in_poster         | Number of faces in the movie poster           | Numeric   |
+| plot_keywords                | Keywords describing the movie plot           | Text      |
+| movie_imdb_link              | IMDB link for the movie                       | Text      |
+| num_user_for_reviews         | Number of user reviews                        | Numeric   |
+| language                     | Movie language                                | Text      |
+| country                      | Country where the movie was produced          | Text      |
+| content_rating               | Movie content rating                          | Text      |
+| budget                       | Budget of the movie                           | Numeric   |
+| title_year                   | Release year of the movie                     | Numeric   |
+| actor_2_facebook_likes       | Number of Facebook likes for actor 2          | Numeric   |
+| imdb_score                   | IMDB score of the movie                       | Numeric   |
+| aspect_ratio                 | Aspect ratio of the movie                     | Numeric   |
+| movie_facebook_likes         | Number of Facebook likes for the movie        | Numeric   |
+
 ## Source
 https://www.kaggle.com/datasets/unanimad/the-oscar-award
 
